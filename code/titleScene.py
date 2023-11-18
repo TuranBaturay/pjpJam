@@ -21,7 +21,7 @@ class TitleScene(CustomScene):
 
 
         
-        d = DialogueBox().set_autoresize(False)
+        d = DialogueBox().set_autoresize(False).set_align(bf.Align.LEFT).set_auto_wraplength(True)
         d.add_constraints(bf.ConstraintAnchorBottom(),bf.ConstraintCenterX(),bf.ConstraintPercentageWidth(1),bf.ConstraintHeight(40))
         
         self.root.add_child(d)

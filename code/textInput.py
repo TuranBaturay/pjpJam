@@ -60,17 +60,6 @@ class TextInput(bf.Button):
                 res = False
         return res
 
-    def _build_layout(self)->None:
-        if self.autoresize:
-            if self.rect.size != self.inflate_rect_by_padding(self._text_rect).size :
-                self.set_size(
-                    self._text_rect.w + self.padding[0]+self.padding[2], 
-                    self._text_rect.h + self.padding[1]+self.padding[3] 
-                )
-                return
-        self._text_rect.midleft = self.get_content_rect_rel().midleft
-        self.surface.blit(self._text_surface,self._text_rect)
-                
 
     def set_text(self,text):
         super().set_text(text)
