@@ -4,3 +4,4 @@ generate_executable.sh
 dist/
 __pycache__/*
 *.pyc
+notes.txt
