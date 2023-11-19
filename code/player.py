@@ -4,11 +4,13 @@ import batFramework as bf
 import batFramework as bf
 from pygame.math import Vector2
 import pygame
-from game_constants import GameConstants as gconst
-from level import Level, Tile
-import utils.tools as tools
+from .game_constants import GameConstants as gconst
+from .level import Level, Tile
 import itertools
+from .animatedParticle import AnimatedParticle
 
+def world_to_grid(x,y):
+    return int(x//gconst.TILE_SIZE),int(y//gconst.TILE_SIZE)
 
 def horizontal_movement(parent_entity: bf.AnimatedSprite, speed):
     if parent_entity.actions.is_active("right"):
@@ -69,7 +71,7 @@ class Run(bf.State):
             self.state_machine.set_state("jump")
             return
         horizontal_movement(self.parent_entity, self.parent_entity.h_movement_speed)
-        if next(self.incrementer) % 10 == 0:
+        # if next(self.incrementer) % 10 == 0:
             # bf.AudioManager().play_sound("step", 0.5)
 
 
@@ -83,7 +85,11 @@ class Fall(bf.State):
 
     def update(self, dt):
         if self.parent_entity.on_ground:
-            bf.AudioManager().play_sound("step")
+            # bf.AudioManager().play_sound("step")
+            pm = self.parent_entity.parent_scene.get_sharedVar("pm")
+            pm.add_particle(
+            AnimatedParticle(self.parent_entity.collision_rect.midbottom,Vector2(-10,-10)).set_animation("assets/animations/player/idle.png",(16,16),[4,4,4,4])
+            )
             self.state_machine.set_state(
                 "idle" if self.parent_entity.velocity.x == 0 else "run"
             )
@@ -118,7 +124,7 @@ class Jump(bf.State):
 
 class Player(bf.AnimatedSprite):
     def __init__(self) -> None:
-        super().__init__((8, 16))
+        super().__init__((16, 16))
         self.set_debug_color("blue")
 
         self.init_class_vars()
@@ -156,10 +162,10 @@ class Player(bf.AnimatedSprite):
     def init_animStates(self):
         sprite_size = [int(i) for i in self.rect.size]
 
-        self.add_animState("idle", "animation/player/idle.png", sprite_size, [20, 15])
-        self.add_animState("run", "animation/player/run.png", sprite_size, [3] * 8)
-        self.add_animState("jump", "animation/player/jump.png", sprite_size, [4, 9999])
-        self.add_animState("fall", "animation/player/fall.png", sprite_size, [6, 6])
+        self.add_animState("idle", "assets/animations/player/idle.png", sprite_size,    [10,8,8,4])
+        self.add_animState("run", "assets/animations/player/run.png", sprite_size,     [5,5,8,6])
+        self.add_animState("jump", "assets/animations/player/jump.png", sprite_size,    [2,999])
+        self.add_animState("fall", "assets/animations/player/fall.png", sprite_size,    [15,10])
 
     def init_stateMachine(self):
         self.state_machine: bf.StateMachine = bf.StateMachine(self)
@@ -171,7 +177,6 @@ class Player(bf.AnimatedSprite):
 
     def do_when_added(self):
         self.level_link: Level = self.parent_scene.get_sharedVar("level")
-        self.baby_link = self.parent_scene.get_sharedVar("baby")
 
     def get_bounding_box(self):
         return self.rect, self.collision_rect
@@ -217,9 +222,9 @@ class Player(bf.AnimatedSprite):
                 self.collision_rect.bottom = collider.rect.top
                 self.position.y = self.collision_rect.top
                 self.on_ground = True
-                pygame.event.post(
-                    pygame.event.Event(gconst.STEP_ON_EVENT, {"entity": collider})
-                )
+                # pygame.event.post(
+                #     pygame.event.Event(gconst.STEP_ON_EVENT, {"entity": collider})
+                # )
             else:
                 # Adjust the position if the player is already on the ground
                 self.collision_rect.bottom = collider.rect.top
@@ -237,19 +242,10 @@ class Player(bf.AnimatedSprite):
         # apply velocity
         self.collision_rect.y += self.velocity.y * (dt)
         # print(self.collision_rect)
+        grid_x,grid_y = world_to_grid(*self.collision_rect.center)
+        near_tiles = self.level_link.get_neighboring_tiles(grid_x,grid_y,"collider")
 
-        near_tiles = self.level_link.get_neighboring_tiles(
-            *tools.world_to_grid(*[int(i) for i in self.collision_rect.center])
-        )
-        near_tiles.extend(
-            self.level_link.get_neighboring_entities(
-                *self.collision_rect.center, max(self.rect.size)
-            )
-        )
-        near_tiles = [
-            tile for tile in near_tiles if tile != None and tile.has_tag("collider")
-        ]
-        if any(near_tiles):
+        if near_tiles:
             colliders = [
                 i for i in self.collision_rect.collidelistall(near_tiles) if i > -1
             ]
@@ -263,19 +259,9 @@ class Player(bf.AnimatedSprite):
 
         # apply velocity
         self.collision_rect.x += self.velocity.x * (dt)
-
-        near_tiles: list[Tile] = self.level_link.get_neighboring_tiles(
-            *tools.world_to_grid(*[int(i) for i in self.collision_rect.center])
-        )
-        near_tiles.extend(
-            self.level_link.get_neighboring_entities(
-                *self.collision_rect.center, max(self.rect.size)
-            )
-        )
-
-        near_tiles = [
-            tile for tile in near_tiles if tile != None and tile.has_tag("collider")
-        ]
+        
+        grid_x,grid_y = world_to_grid(*self.collision_rect.center)
+        near_tiles = self.level_link.get_neighboring_tiles(grid_x,grid_y,"collider")
 
         if any(near_tiles):
             colliders = [

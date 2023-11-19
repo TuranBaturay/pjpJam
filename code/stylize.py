@@ -10,7 +10,7 @@ def stylize(*widgets : bf.Widget):
         match w:
             case DialogueBox():
                 apply_common(w)
-                w.set_padding((10,4))
+                w.set_padding((10,8,40,8))
             case bf.Container():
                 stylize(*w.children)
             case bf.Label():

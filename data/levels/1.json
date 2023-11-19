@@ -1,0 +1,8377 @@
+{
+  "level": [
+    [
+      {
+        "world_position": [
+          0,
+          0
+        ],
+        "grid_position": [
+          0,
+          0
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          16,
+          0
+        ],
+        "grid_position": [
+          1,
+          0
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          32,
+          0
+        ],
+        "grid_position": [
+          2,
+          0
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          48,
+          0
+        ],
+        "grid_position": [
+          3,
+          0
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          64,
+          0
+        ],
+        "grid_position": [
+          4,
+          0
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          80,
+          0
+        ],
+        "grid_position": [
+          5,
+          0
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          96,
+          0
+        ],
+        "grid_position": [
+          6,
+          0
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          112,
+          0
+        ],
+        "grid_position": [
+          7,
+          0
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          128,
+          0
+        ],
+        "grid_position": [
+          8,
+          0
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "world_position": [
+          512,
+          0
+        ],
+        "grid_position": [
+          32,
+          0
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          528,
+          0
+        ],
+        "grid_position": [
+          33,
+          0
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          544,
+          0
+        ],
+        "grid_position": [
+          34,
+          0
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          560,
+          0
+        ],
+        "grid_position": [
+          35,
+          0
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          576,
+          0
+        ],
+        "grid_position": [
+          36,
+          0
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          592,
+          0
+        ],
+        "grid_position": [
+          37,
+          0
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          608,
+          0
+        ],
+        "grid_position": [
+          38,
+          0
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          624,
+          0
+        ],
+        "grid_position": [
+          39,
+          0
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      }
+    ],
+    [
+      {
+        "world_position": [
+          0,
+          16
+        ],
+        "grid_position": [
+          0,
+          1
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          16,
+          16
+        ],
+        "grid_position": [
+          1,
+          1
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          32,
+          16
+        ],
+        "grid_position": [
+          2,
+          1
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          48,
+          16
+        ],
+        "grid_position": [
+          3,
+          1
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          64,
+          16
+        ],
+        "grid_position": [
+          4,
+          1
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          80,
+          16
+        ],
+        "grid_position": [
+          5,
+          1
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          96,
+          16
+        ],
+        "grid_position": [
+          6,
+          1
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          112,
+          16
+        ],
+        "grid_position": [
+          7,
+          1
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          128,
+          16
+        ],
+        "grid_position": [
+          8,
+          1
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "world_position": [
+          512,
+          16
+        ],
+        "grid_position": [
+          32,
+          1
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          528,
+          16
+        ],
+        "grid_position": [
+          33,
+          1
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          544,
+          16
+        ],
+        "grid_position": [
+          34,
+          1
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          560,
+          16
+        ],
+        "grid_position": [
+          35,
+          1
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          576,
+          16
+        ],
+        "grid_position": [
+          36,
+          1
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          592,
+          16
+        ],
+        "grid_position": [
+          37,
+          1
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          608,
+          16
+        ],
+        "grid_position": [
+          38,
+          1
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          624,
+          16
+        ],
+        "grid_position": [
+          39,
+          1
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      }
+    ],
+    [
+      {
+        "world_position": [
+          0,
+          32
+        ],
+        "grid_position": [
+          0,
+          2
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          16,
+          32
+        ],
+        "grid_position": [
+          1,
+          2
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          32,
+          32
+        ],
+        "grid_position": [
+          2,
+          2
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          48,
+          32
+        ],
+        "grid_position": [
+          3,
+          2
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          64,
+          32
+        ],
+        "grid_position": [
+          4,
+          2
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          80,
+          32
+        ],
+        "grid_position": [
+          5,
+          2
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          96,
+          32
+        ],
+        "grid_position": [
+          6,
+          2
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          112,
+          32
+        ],
+        "grid_position": [
+          7,
+          2
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          128,
+          32
+        ],
+        "grid_position": [
+          8,
+          2
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "world_position": [
+          512,
+          32
+        ],
+        "grid_position": [
+          32,
+          2
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          528,
+          32
+        ],
+        "grid_position": [
+          33,
+          2
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          544,
+          32
+        ],
+        "grid_position": [
+          34,
+          2
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          560,
+          32
+        ],
+        "grid_position": [
+          35,
+          2
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          576,
+          32
+        ],
+        "grid_position": [
+          36,
+          2
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          592,
+          32
+        ],
+        "grid_position": [
+          37,
+          2
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          608,
+          32
+        ],
+        "grid_position": [
+          38,
+          2
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          624,
+          32
+        ],
+        "grid_position": [
+          39,
+          2
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      }
+    ],
+    [
+      {
+        "world_position": [
+          0,
+          48
+        ],
+        "grid_position": [
+          0,
+          3
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          16,
+          48
+        ],
+        "grid_position": [
+          1,
+          3
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          32,
+          48
+        ],
+        "grid_position": [
+          2,
+          3
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          48,
+          48
+        ],
+        "grid_position": [
+          3,
+          3
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          64,
+          48
+        ],
+        "grid_position": [
+          4,
+          3
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          80,
+          48
+        ],
+        "grid_position": [
+          5,
+          3
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          96,
+          48
+        ],
+        "grid_position": [
+          6,
+          3
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          112,
+          48
+        ],
+        "grid_position": [
+          7,
+          3
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          128,
+          48
+        ],
+        "grid_position": [
+          8,
+          3
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "world_position": [
+          512,
+          48
+        ],
+        "grid_position": [
+          32,
+          3
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          528,
+          48
+        ],
+        "grid_position": [
+          33,
+          3
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          544,
+          48
+        ],
+        "grid_position": [
+          34,
+          3
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          560,
+          48
+        ],
+        "grid_position": [
+          35,
+          3
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          576,
+          48
+        ],
+        "grid_position": [
+          36,
+          3
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          592,
+          48
+        ],
+        "grid_position": [
+          37,
+          3
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          608,
+          48
+        ],
+        "grid_position": [
+          38,
+          3
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          624,
+          48
+        ],
+        "grid_position": [
+          39,
+          3
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      }
+    ],
+    [
+      {
+        "world_position": [
+          0,
+          64
+        ],
+        "grid_position": [
+          0,
+          4
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          16,
+          64
+        ],
+        "grid_position": [
+          1,
+          4
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          32,
+          64
+        ],
+        "grid_position": [
+          2,
+          4
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          48,
+          64
+        ],
+        "grid_position": [
+          3,
+          4
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          64,
+          64
+        ],
+        "grid_position": [
+          4,
+          4
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          80,
+          64
+        ],
+        "grid_position": [
+          5,
+          4
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          96,
+          64
+        ],
+        "grid_position": [
+          6,
+          4
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          112,
+          64
+        ],
+        "grid_position": [
+          7,
+          4
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          128,
+          64
+        ],
+        "grid_position": [
+          8,
+          4
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "world_position": [
+          512,
+          64
+        ],
+        "grid_position": [
+          32,
+          4
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          528,
+          64
+        ],
+        "grid_position": [
+          33,
+          4
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          544,
+          64
+        ],
+        "grid_position": [
+          34,
+          4
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          560,
+          64
+        ],
+        "grid_position": [
+          35,
+          4
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          576,
+          64
+        ],
+        "grid_position": [
+          36,
+          4
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          592,
+          64
+        ],
+        "grid_position": [
+          37,
+          4
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          608,
+          64
+        ],
+        "grid_position": [
+          38,
+          4
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          624,
+          64
+        ],
+        "grid_position": [
+          39,
+          4
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      }
+    ],
+    [
+      {
+        "world_position": [
+          0,
+          80
+        ],
+        "grid_position": [
+          0,
+          5
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          16,
+          80
+        ],
+        "grid_position": [
+          1,
+          5
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          32,
+          80
+        ],
+        "grid_position": [
+          2,
+          5
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          48,
+          80
+        ],
+        "grid_position": [
+          3,
+          5
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          64,
+          80
+        ],
+        "grid_position": [
+          4,
+          5
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          80,
+          80
+        ],
+        "grid_position": [
+          5,
+          5
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          96,
+          80
+        ],
+        "grid_position": [
+          6,
+          5
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          112,
+          80
+        ],
+        "grid_position": [
+          7,
+          5
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          128,
+          80
+        ],
+        "grid_position": [
+          8,
+          5
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "world_position": [
+          512,
+          80
+        ],
+        "grid_position": [
+          32,
+          5
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          528,
+          80
+        ],
+        "grid_position": [
+          33,
+          5
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          544,
+          80
+        ],
+        "grid_position": [
+          34,
+          5
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          560,
+          80
+        ],
+        "grid_position": [
+          35,
+          5
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          576,
+          80
+        ],
+        "grid_position": [
+          36,
+          5
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          592,
+          80
+        ],
+        "grid_position": [
+          37,
+          5
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          608,
+          80
+        ],
+        "grid_position": [
+          38,
+          5
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          624,
+          80
+        ],
+        "grid_position": [
+          39,
+          5
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      }
+    ],
+    [
+      {
+        "world_position": [
+          0,
+          96
+        ],
+        "grid_position": [
+          0,
+          6
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          16,
+          96
+        ],
+        "grid_position": [
+          1,
+          6
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          32,
+          96
+        ],
+        "grid_position": [
+          2,
+          6
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          48,
+          96
+        ],
+        "grid_position": [
+          3,
+          6
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          64,
+          96
+        ],
+        "grid_position": [
+          4,
+          6
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          80,
+          96
+        ],
+        "grid_position": [
+          5,
+          6
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          96,
+          96
+        ],
+        "grid_position": [
+          6,
+          6
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          112,
+          96
+        ],
+        "grid_position": [
+          7,
+          6
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          128,
+          96
+        ],
+        "grid_position": [
+          8,
+          6
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "world_position": [
+          512,
+          96
+        ],
+        "grid_position": [
+          32,
+          6
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          528,
+          96
+        ],
+        "grid_position": [
+          33,
+          6
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          544,
+          96
+        ],
+        "grid_position": [
+          34,
+          6
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          560,
+          96
+        ],
+        "grid_position": [
+          35,
+          6
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          576,
+          96
+        ],
+        "grid_position": [
+          36,
+          6
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          592,
+          96
+        ],
+        "grid_position": [
+          37,
+          6
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          608,
+          96
+        ],
+        "grid_position": [
+          38,
+          6
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          624,
+          96
+        ],
+        "grid_position": [
+          39,
+          6
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      }
+    ],
+    [
+      {
+        "world_position": [
+          0,
+          112
+        ],
+        "grid_position": [
+          0,
+          7
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          16,
+          112
+        ],
+        "grid_position": [
+          1,
+          7
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          32,
+          112
+        ],
+        "grid_position": [
+          2,
+          7
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          48,
+          112
+        ],
+        "grid_position": [
+          3,
+          7
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          64,
+          112
+        ],
+        "grid_position": [
+          4,
+          7
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          80,
+          112
+        ],
+        "grid_position": [
+          5,
+          7
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          96,
+          112
+        ],
+        "grid_position": [
+          6,
+          7
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          112,
+          112
+        ],
+        "grid_position": [
+          7,
+          7
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          128,
+          112
+        ],
+        "grid_position": [
+          8,
+          7
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "world_position": [
+          512,
+          112
+        ],
+        "grid_position": [
+          32,
+          7
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          528,
+          112
+        ],
+        "grid_position": [
+          33,
+          7
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          544,
+          112
+        ],
+        "grid_position": [
+          34,
+          7
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          560,
+          112
+        ],
+        "grid_position": [
+          35,
+          7
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          576,
+          112
+        ],
+        "grid_position": [
+          36,
+          7
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          592,
+          112
+        ],
+        "grid_position": [
+          37,
+          7
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          608,
+          112
+        ],
+        "grid_position": [
+          38,
+          7
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          624,
+          112
+        ],
+        "grid_position": [
+          39,
+          7
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      }
+    ],
+    [
+      {
+        "world_position": [
+          0,
+          128
+        ],
+        "grid_position": [
+          0,
+          8
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          16,
+          128
+        ],
+        "grid_position": [
+          1,
+          8
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          32,
+          128
+        ],
+        "grid_position": [
+          2,
+          8
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          48,
+          128
+        ],
+        "grid_position": [
+          3,
+          8
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          64,
+          128
+        ],
+        "grid_position": [
+          4,
+          8
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          80,
+          128
+        ],
+        "grid_position": [
+          5,
+          8
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          96,
+          128
+        ],
+        "grid_position": [
+          6,
+          8
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          112,
+          128
+        ],
+        "grid_position": [
+          7,
+          8
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          128,
+          128
+        ],
+        "grid_position": [
+          8,
+          8
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "world_position": [
+          512,
+          128
+        ],
+        "grid_position": [
+          32,
+          8
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          528,
+          128
+        ],
+        "grid_position": [
+          33,
+          8
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          544,
+          128
+        ],
+        "grid_position": [
+          34,
+          8
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          560,
+          128
+        ],
+        "grid_position": [
+          35,
+          8
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          576,
+          128
+        ],
+        "grid_position": [
+          36,
+          8
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          592,
+          128
+        ],
+        "grid_position": [
+          37,
+          8
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          608,
+          128
+        ],
+        "grid_position": [
+          38,
+          8
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          624,
+          128
+        ],
+        "grid_position": [
+          39,
+          8
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      }
+    ],
+    [
+      {
+        "world_position": [
+          0,
+          144
+        ],
+        "grid_position": [
+          0,
+          9
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          16,
+          144
+        ],
+        "grid_position": [
+          1,
+          9
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          32,
+          144
+        ],
+        "grid_position": [
+          2,
+          9
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          48,
+          144
+        ],
+        "grid_position": [
+          3,
+          9
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          64,
+          144
+        ],
+        "grid_position": [
+          4,
+          9
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          80,
+          144
+        ],
+        "grid_position": [
+          5,
+          9
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          96,
+          144
+        ],
+        "grid_position": [
+          6,
+          9
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          112,
+          144
+        ],
+        "grid_position": [
+          7,
+          9
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          128,
+          144
+        ],
+        "grid_position": [
+          8,
+          9
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "world_position": [
+          512,
+          144
+        ],
+        "grid_position": [
+          32,
+          9
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          528,
+          144
+        ],
+        "grid_position": [
+          33,
+          9
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          544,
+          144
+        ],
+        "grid_position": [
+          34,
+          9
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          560,
+          144
+        ],
+        "grid_position": [
+          35,
+          9
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          576,
+          144
+        ],
+        "grid_position": [
+          36,
+          9
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          592,
+          144
+        ],
+        "grid_position": [
+          37,
+          9
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          608,
+          144
+        ],
+        "grid_position": [
+          38,
+          9
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          624,
+          144
+        ],
+        "grid_position": [
+          39,
+          9
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      }
+    ],
+    [
+      {
+        "world_position": [
+          0,
+          160
+        ],
+        "grid_position": [
+          0,
+          10
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          16,
+          160
+        ],
+        "grid_position": [
+          1,
+          10
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          32,
+          160
+        ],
+        "grid_position": [
+          2,
+          10
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          48,
+          160
+        ],
+        "grid_position": [
+          3,
+          10
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          64,
+          160
+        ],
+        "grid_position": [
+          4,
+          10
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          80,
+          160
+        ],
+        "grid_position": [
+          5,
+          10
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          96,
+          160
+        ],
+        "grid_position": [
+          6,
+          10
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          112,
+          160
+        ],
+        "grid_position": [
+          7,
+          10
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          128,
+          160
+        ],
+        "grid_position": [
+          8,
+          10
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "world_position": [
+          512,
+          160
+        ],
+        "grid_position": [
+          32,
+          10
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          528,
+          160
+        ],
+        "grid_position": [
+          33,
+          10
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          544,
+          160
+        ],
+        "grid_position": [
+          34,
+          10
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          560,
+          160
+        ],
+        "grid_position": [
+          35,
+          10
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          576,
+          160
+        ],
+        "grid_position": [
+          36,
+          10
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          592,
+          160
+        ],
+        "grid_position": [
+          37,
+          10
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          608,
+          160
+        ],
+        "grid_position": [
+          38,
+          10
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          624,
+          160
+        ],
+        "grid_position": [
+          39,
+          10
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      }
+    ],
+    [
+      {
+        "world_position": [
+          0,
+          176
+        ],
+        "grid_position": [
+          0,
+          11
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          16,
+          176
+        ],
+        "grid_position": [
+          1,
+          11
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          32,
+          176
+        ],
+        "grid_position": [
+          2,
+          11
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          48,
+          176
+        ],
+        "grid_position": [
+          3,
+          11
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          64,
+          176
+        ],
+        "grid_position": [
+          4,
+          11
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          80,
+          176
+        ],
+        "grid_position": [
+          5,
+          11
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          96,
+          176
+        ],
+        "grid_position": [
+          6,
+          11
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          112,
+          176
+        ],
+        "grid_position": [
+          7,
+          11
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          128,
+          176
+        ],
+        "grid_position": [
+          8,
+          11
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "world_position": [
+          512,
+          176
+        ],
+        "grid_position": [
+          32,
+          11
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          528,
+          176
+        ],
+        "grid_position": [
+          33,
+          11
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          544,
+          176
+        ],
+        "grid_position": [
+          34,
+          11
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          560,
+          176
+        ],
+        "grid_position": [
+          35,
+          11
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          576,
+          176
+        ],
+        "grid_position": [
+          36,
+          11
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          592,
+          176
+        ],
+        "grid_position": [
+          37,
+          11
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          608,
+          176
+        ],
+        "grid_position": [
+          38,
+          11
+        ],
+        "index": [
+          4,
+          0
+        ],
+        "tags": [
+          "collider",
+          "editor_mode"
+        ]
+      },
+      {
+        "world_position": [
+          624,
+          176
+        ],
+        "grid_position": [
+          39,
+          11
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider",
+          "editor_mode"
+        ]
+      }
+    ],
+    [
+      {
+        "world_position": [
+          0,
+          192
+        ],
+        "grid_position": [
+          0,
+          12
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          16,
+          192
+        ],
+        "grid_position": [
+          1,
+          12
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          32,
+          192
+        ],
+        "grid_position": [
+          2,
+          12
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          48,
+          192
+        ],
+        "grid_position": [
+          3,
+          12
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          64,
+          192
+        ],
+        "grid_position": [
+          4,
+          12
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          80,
+          192
+        ],
+        "grid_position": [
+          5,
+          12
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          96,
+          192
+        ],
+        "grid_position": [
+          6,
+          12
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          112,
+          192
+        ],
+        "grid_position": [
+          7,
+          12
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          128,
+          192
+        ],
+        "grid_position": [
+          8,
+          12
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "world_position": [
+          512,
+          192
+        ],
+        "grid_position": [
+          32,
+          12
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          528,
+          192
+        ],
+        "grid_position": [
+          33,
+          12
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          544,
+          192
+        ],
+        "grid_position": [
+          34,
+          12
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          560,
+          192
+        ],
+        "grid_position": [
+          35,
+          12
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          576,
+          192
+        ],
+        "grid_position": [
+          36,
+          12
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          592,
+          192
+        ],
+        "grid_position": [
+          37,
+          12
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          608,
+          192
+        ],
+        "grid_position": [
+          38,
+          12
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          624,
+          192
+        ],
+        "grid_position": [
+          39,
+          12
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      }
+    ],
+    [
+      {
+        "world_position": [
+          0,
+          208
+        ],
+        "grid_position": [
+          0,
+          13
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          16,
+          208
+        ],
+        "grid_position": [
+          1,
+          13
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          32,
+          208
+        ],
+        "grid_position": [
+          2,
+          13
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          48,
+          208
+        ],
+        "grid_position": [
+          3,
+          13
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          64,
+          208
+        ],
+        "grid_position": [
+          4,
+          13
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          80,
+          208
+        ],
+        "grid_position": [
+          5,
+          13
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          96,
+          208
+        ],
+        "grid_position": [
+          6,
+          13
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          112,
+          208
+        ],
+        "grid_position": [
+          7,
+          13
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          128,
+          208
+        ],
+        "grid_position": [
+          8,
+          13
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "world_position": [
+          512,
+          208
+        ],
+        "grid_position": [
+          32,
+          13
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          528,
+          208
+        ],
+        "grid_position": [
+          33,
+          13
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          544,
+          208
+        ],
+        "grid_position": [
+          34,
+          13
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          560,
+          208
+        ],
+        "grid_position": [
+          35,
+          13
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          576,
+          208
+        ],
+        "grid_position": [
+          36,
+          13
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          592,
+          208
+        ],
+        "grid_position": [
+          37,
+          13
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          608,
+          208
+        ],
+        "grid_position": [
+          38,
+          13
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          624,
+          208
+        ],
+        "grid_position": [
+          39,
+          13
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      }
+    ],
+    [
+      {
+        "world_position": [
+          0,
+          224
+        ],
+        "grid_position": [
+          0,
+          14
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          16,
+          224
+        ],
+        "grid_position": [
+          1,
+          14
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          32,
+          224
+        ],
+        "grid_position": [
+          2,
+          14
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          48,
+          224
+        ],
+        "grid_position": [
+          3,
+          14
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          64,
+          224
+        ],
+        "grid_position": [
+          4,
+          14
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          80,
+          224
+        ],
+        "grid_position": [
+          5,
+          14
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          96,
+          224
+        ],
+        "grid_position": [
+          6,
+          14
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          112,
+          224
+        ],
+        "grid_position": [
+          7,
+          14
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          128,
+          224
+        ],
+        "grid_position": [
+          8,
+          14
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "world_position": [
+          512,
+          224
+        ],
+        "grid_position": [
+          32,
+          14
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          528,
+          224
+        ],
+        "grid_position": [
+          33,
+          14
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          544,
+          224
+        ],
+        "grid_position": [
+          34,
+          14
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          560,
+          224
+        ],
+        "grid_position": [
+          35,
+          14
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          576,
+          224
+        ],
+        "grid_position": [
+          36,
+          14
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          592,
+          224
+        ],
+        "grid_position": [
+          37,
+          14
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          608,
+          224
+        ],
+        "grid_position": [
+          38,
+          14
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          624,
+          224
+        ],
+        "grid_position": [
+          39,
+          14
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider",
+          "editor_mode"
+        ]
+      }
+    ],
+    [
+      {
+        "world_position": [
+          0,
+          240
+        ],
+        "grid_position": [
+          0,
+          15
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          16,
+          240
+        ],
+        "grid_position": [
+          1,
+          15
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          32,
+          240
+        ],
+        "grid_position": [
+          2,
+          15
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          48,
+          240
+        ],
+        "grid_position": [
+          3,
+          15
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          64,
+          240
+        ],
+        "grid_position": [
+          4,
+          15
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          80,
+          240
+        ],
+        "grid_position": [
+          5,
+          15
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          96,
+          240
+        ],
+        "grid_position": [
+          6,
+          15
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          112,
+          240
+        ],
+        "grid_position": [
+          7,
+          15
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          128,
+          240
+        ],
+        "grid_position": [
+          8,
+          15
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "world_position": [
+          352,
+          240
+        ],
+        "grid_position": [
+          22,
+          15
+        ],
+        "index": [
+          4,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "world_position": [
+          512,
+          240
+        ],
+        "grid_position": [
+          32,
+          15
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          528,
+          240
+        ],
+        "grid_position": [
+          33,
+          15
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          544,
+          240
+        ],
+        "grid_position": [
+          34,
+          15
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          560,
+          240
+        ],
+        "grid_position": [
+          35,
+          15
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          576,
+          240
+        ],
+        "grid_position": [
+          36,
+          15
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          592,
+          240
+        ],
+        "grid_position": [
+          37,
+          15
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          608,
+          240
+        ],
+        "grid_position": [
+          38,
+          15
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          624,
+          240
+        ],
+        "grid_position": [
+          39,
+          15
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      }
+    ],
+    [
+      {
+        "world_position": [
+          0,
+          256
+        ],
+        "grid_position": [
+          0,
+          16
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          16,
+          256
+        ],
+        "grid_position": [
+          1,
+          16
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          32,
+          256
+        ],
+        "grid_position": [
+          2,
+          16
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          48,
+          256
+        ],
+        "grid_position": [
+          3,
+          16
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          64,
+          256
+        ],
+        "grid_position": [
+          4,
+          16
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          80,
+          256
+        ],
+        "grid_position": [
+          5,
+          16
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          96,
+          256
+        ],
+        "grid_position": [
+          6,
+          16
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          112,
+          256
+        ],
+        "grid_position": [
+          7,
+          16
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          128,
+          256
+        ],
+        "grid_position": [
+          8,
+          16
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "world_position": [
+          320,
+          256
+        ],
+        "grid_position": [
+          20,
+          16
+        ],
+        "index": [
+          4,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      null,
+      {
+        "world_position": [
+          352,
+          256
+        ],
+        "grid_position": [
+          22,
+          16
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "world_position": [
+          512,
+          256
+        ],
+        "grid_position": [
+          32,
+          16
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          528,
+          256
+        ],
+        "grid_position": [
+          33,
+          16
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          544,
+          256
+        ],
+        "grid_position": [
+          34,
+          16
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          560,
+          256
+        ],
+        "grid_position": [
+          35,
+          16
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          576,
+          256
+        ],
+        "grid_position": [
+          36,
+          16
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          592,
+          256
+        ],
+        "grid_position": [
+          37,
+          16
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          608,
+          256
+        ],
+        "grid_position": [
+          38,
+          16
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          624,
+          256
+        ],
+        "grid_position": [
+          39,
+          16
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      }
+    ],
+    [
+      {
+        "world_position": [
+          0,
+          272
+        ],
+        "grid_position": [
+          0,
+          17
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          16,
+          272
+        ],
+        "grid_position": [
+          1,
+          17
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          32,
+          272
+        ],
+        "grid_position": [
+          2,
+          17
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          48,
+          272
+        ],
+        "grid_position": [
+          3,
+          17
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          64,
+          272
+        ],
+        "grid_position": [
+          4,
+          17
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          80,
+          272
+        ],
+        "grid_position": [
+          5,
+          17
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          96,
+          272
+        ],
+        "grid_position": [
+          6,
+          17
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          112,
+          272
+        ],
+        "grid_position": [
+          7,
+          17
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          128,
+          272
+        ],
+        "grid_position": [
+          8,
+          17
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          144,
+          272
+        ],
+        "grid_position": [
+          9,
+          17
+        ],
+        "index": [
+          4,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          160,
+          272
+        ],
+        "grid_position": [
+          10,
+          17
+        ],
+        "index": [
+          4,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          176,
+          272
+        ],
+        "grid_position": [
+          11,
+          17
+        ],
+        "index": [
+          4,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          192,
+          272
+        ],
+        "grid_position": [
+          12,
+          17
+        ],
+        "index": [
+          4,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          208,
+          272
+        ],
+        "grid_position": [
+          13,
+          17
+        ],
+        "index": [
+          4,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          224,
+          272
+        ],
+        "grid_position": [
+          14,
+          17
+        ],
+        "index": [
+          4,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          240,
+          272
+        ],
+        "grid_position": [
+          15,
+          17
+        ],
+        "index": [
+          4,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          256,
+          272
+        ],
+        "grid_position": [
+          16,
+          17
+        ],
+        "index": [
+          4,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          272,
+          272
+        ],
+        "grid_position": [
+          17,
+          17
+        ],
+        "index": [
+          4,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          288,
+          272
+        ],
+        "grid_position": [
+          18,
+          17
+        ],
+        "index": [
+          4,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          304,
+          272
+        ],
+        "grid_position": [
+          19,
+          17
+        ],
+        "index": [
+          4,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          320,
+          272
+        ],
+        "grid_position": [
+          20,
+          17
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          336,
+          272
+        ],
+        "grid_position": [
+          21,
+          17
+        ],
+        "index": [
+          4,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          352,
+          272
+        ],
+        "grid_position": [
+          22,
+          17
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          368,
+          272
+        ],
+        "grid_position": [
+          23,
+          17
+        ],
+        "index": [
+          4,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          384,
+          272
+        ],
+        "grid_position": [
+          24,
+          17
+        ],
+        "index": [
+          4,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          400,
+          272
+        ],
+        "grid_position": [
+          25,
+          17
+        ],
+        "index": [
+          4,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          416,
+          272
+        ],
+        "grid_position": [
+          26,
+          17
+        ],
+        "index": [
+          4,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          432,
+          272
+        ],
+        "grid_position": [
+          27,
+          17
+        ],
+        "index": [
+          4,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          448,
+          272
+        ],
+        "grid_position": [
+          28,
+          17
+        ],
+        "index": [
+          4,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          464,
+          272
+        ],
+        "grid_position": [
+          29,
+          17
+        ],
+        "index": [
+          4,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          480,
+          272
+        ],
+        "grid_position": [
+          30,
+          17
+        ],
+        "index": [
+          4,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          496,
+          272
+        ],
+        "grid_position": [
+          31,
+          17
+        ],
+        "index": [
+          4,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          512,
+          272
+        ],
+        "grid_position": [
+          32,
+          17
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          528,
+          272
+        ],
+        "grid_position": [
+          33,
+          17
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          544,
+          272
+        ],
+        "grid_position": [
+          34,
+          17
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          560,
+          272
+        ],
+        "grid_position": [
+          35,
+          17
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          576,
+          272
+        ],
+        "grid_position": [
+          36,
+          17
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          592,
+          272
+        ],
+        "grid_position": [
+          37,
+          17
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          608,
+          272
+        ],
+        "grid_position": [
+          38,
+          17
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          624,
+          272
+        ],
+        "grid_position": [
+          39,
+          17
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      }
+    ],
+    [
+      {
+        "world_position": [
+          0,
+          288
+        ],
+        "grid_position": [
+          0,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          16,
+          288
+        ],
+        "grid_position": [
+          1,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          32,
+          288
+        ],
+        "grid_position": [
+          2,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          48,
+          288
+        ],
+        "grid_position": [
+          3,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          64,
+          288
+        ],
+        "grid_position": [
+          4,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          80,
+          288
+        ],
+        "grid_position": [
+          5,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          96,
+          288
+        ],
+        "grid_position": [
+          6,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          112,
+          288
+        ],
+        "grid_position": [
+          7,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          128,
+          288
+        ],
+        "grid_position": [
+          8,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          144,
+          288
+        ],
+        "grid_position": [
+          9,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          160,
+          288
+        ],
+        "grid_position": [
+          10,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          176,
+          288
+        ],
+        "grid_position": [
+          11,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          192,
+          288
+        ],
+        "grid_position": [
+          12,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          208,
+          288
+        ],
+        "grid_position": [
+          13,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          224,
+          288
+        ],
+        "grid_position": [
+          14,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          240,
+          288
+        ],
+        "grid_position": [
+          15,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          256,
+          288
+        ],
+        "grid_position": [
+          16,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          272,
+          288
+        ],
+        "grid_position": [
+          17,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          288,
+          288
+        ],
+        "grid_position": [
+          18,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          304,
+          288
+        ],
+        "grid_position": [
+          19,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          320,
+          288
+        ],
+        "grid_position": [
+          20,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          336,
+          288
+        ],
+        "grid_position": [
+          21,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          352,
+          288
+        ],
+        "grid_position": [
+          22,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          368,
+          288
+        ],
+        "grid_position": [
+          23,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          384,
+          288
+        ],
+        "grid_position": [
+          24,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          400,
+          288
+        ],
+        "grid_position": [
+          25,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          416,
+          288
+        ],
+        "grid_position": [
+          26,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          432,
+          288
+        ],
+        "grid_position": [
+          27,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          448,
+          288
+        ],
+        "grid_position": [
+          28,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          464,
+          288
+        ],
+        "grid_position": [
+          29,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          480,
+          288
+        ],
+        "grid_position": [
+          30,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          496,
+          288
+        ],
+        "grid_position": [
+          31,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          512,
+          288
+        ],
+        "grid_position": [
+          32,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          528,
+          288
+        ],
+        "grid_position": [
+          33,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          544,
+          288
+        ],
+        "grid_position": [
+          34,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          560,
+          288
+        ],
+        "grid_position": [
+          35,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          576,
+          288
+        ],
+        "grid_position": [
+          36,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          592,
+          288
+        ],
+        "grid_position": [
+          37,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          608,
+          288
+        ],
+        "grid_position": [
+          38,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          624,
+          288
+        ],
+        "grid_position": [
+          39,
+          18
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      }
+    ],
+    [
+      {
+        "world_position": [
+          0,
+          304
+        ],
+        "grid_position": [
+          0,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          16,
+          304
+        ],
+        "grid_position": [
+          1,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          32,
+          304
+        ],
+        "grid_position": [
+          2,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          48,
+          304
+        ],
+        "grid_position": [
+          3,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          64,
+          304
+        ],
+        "grid_position": [
+          4,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          80,
+          304
+        ],
+        "grid_position": [
+          5,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          96,
+          304
+        ],
+        "grid_position": [
+          6,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          112,
+          304
+        ],
+        "grid_position": [
+          7,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          128,
+          304
+        ],
+        "grid_position": [
+          8,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          144,
+          304
+        ],
+        "grid_position": [
+          9,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          160,
+          304
+        ],
+        "grid_position": [
+          10,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          176,
+          304
+        ],
+        "grid_position": [
+          11,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          192,
+          304
+        ],
+        "grid_position": [
+          12,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          208,
+          304
+        ],
+        "grid_position": [
+          13,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          224,
+          304
+        ],
+        "grid_position": [
+          14,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          240,
+          304
+        ],
+        "grid_position": [
+          15,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          256,
+          304
+        ],
+        "grid_position": [
+          16,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          272,
+          304
+        ],
+        "grid_position": [
+          17,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          288,
+          304
+        ],
+        "grid_position": [
+          18,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          304,
+          304
+        ],
+        "grid_position": [
+          19,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          320,
+          304
+        ],
+        "grid_position": [
+          20,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          336,
+          304
+        ],
+        "grid_position": [
+          21,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          352,
+          304
+        ],
+        "grid_position": [
+          22,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          368,
+          304
+        ],
+        "grid_position": [
+          23,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          384,
+          304
+        ],
+        "grid_position": [
+          24,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          400,
+          304
+        ],
+        "grid_position": [
+          25,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          416,
+          304
+        ],
+        "grid_position": [
+          26,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          432,
+          304
+        ],
+        "grid_position": [
+          27,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          448,
+          304
+        ],
+        "grid_position": [
+          28,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          464,
+          304
+        ],
+        "grid_position": [
+          29,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          480,
+          304
+        ],
+        "grid_position": [
+          30,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          496,
+          304
+        ],
+        "grid_position": [
+          31,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          512,
+          304
+        ],
+        "grid_position": [
+          32,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          528,
+          304
+        ],
+        "grid_position": [
+          33,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          544,
+          304
+        ],
+        "grid_position": [
+          34,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          560,
+          304
+        ],
+        "grid_position": [
+          35,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          576,
+          304
+        ],
+        "grid_position": [
+          36,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          592,
+          304
+        ],
+        "grid_position": [
+          37,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          608,
+          304
+        ],
+        "grid_position": [
+          38,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          624,
+          304
+        ],
+        "grid_position": [
+          39,
+          19
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      }
+    ],
+    [
+      {
+        "world_position": [
+          0,
+          320
+        ],
+        "grid_position": [
+          0,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          16,
+          320
+        ],
+        "grid_position": [
+          1,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          32,
+          320
+        ],
+        "grid_position": [
+          2,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          48,
+          320
+        ],
+        "grid_position": [
+          3,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          64,
+          320
+        ],
+        "grid_position": [
+          4,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          80,
+          320
+        ],
+        "grid_position": [
+          5,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          96,
+          320
+        ],
+        "grid_position": [
+          6,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          112,
+          320
+        ],
+        "grid_position": [
+          7,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          128,
+          320
+        ],
+        "grid_position": [
+          8,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          144,
+          320
+        ],
+        "grid_position": [
+          9,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          160,
+          320
+        ],
+        "grid_position": [
+          10,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          176,
+          320
+        ],
+        "grid_position": [
+          11,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": [
+          "collider"
+        ]
+      },
+      {
+        "world_position": [
+          192,
+          320
+        ],
+        "grid_position": [
+          12,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          208,
+          320
+        ],
+        "grid_position": [
+          13,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          224,
+          320
+        ],
+        "grid_position": [
+          14,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          240,
+          320
+        ],
+        "grid_position": [
+          15,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          256,
+          320
+        ],
+        "grid_position": [
+          16,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          272,
+          320
+        ],
+        "grid_position": [
+          17,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          288,
+          320
+        ],
+        "grid_position": [
+          18,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          304,
+          320
+        ],
+        "grid_position": [
+          19,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          320,
+          320
+        ],
+        "grid_position": [
+          20,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          336,
+          320
+        ],
+        "grid_position": [
+          21,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          352,
+          320
+        ],
+        "grid_position": [
+          22,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          368,
+          320
+        ],
+        "grid_position": [
+          23,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          384,
+          320
+        ],
+        "grid_position": [
+          24,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          400,
+          320
+        ],
+        "grid_position": [
+          25,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          416,
+          320
+        ],
+        "grid_position": [
+          26,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          432,
+          320
+        ],
+        "grid_position": [
+          27,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          448,
+          320
+        ],
+        "grid_position": [
+          28,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          464,
+          320
+        ],
+        "grid_position": [
+          29,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          480,
+          320
+        ],
+        "grid_position": [
+          30,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          496,
+          320
+        ],
+        "grid_position": [
+          31,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          512,
+          320
+        ],
+        "grid_position": [
+          32,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          528,
+          320
+        ],
+        "grid_position": [
+          33,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          544,
+          320
+        ],
+        "grid_position": [
+          34,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          560,
+          320
+        ],
+        "grid_position": [
+          35,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          576,
+          320
+        ],
+        "grid_position": [
+          36,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          592,
+          320
+        ],
+        "grid_position": [
+          37,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          608,
+          320
+        ],
+        "grid_position": [
+          38,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          624,
+          320
+        ],
+        "grid_position": [
+          39,
+          20
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      }
+    ],
+    [
+      {
+        "world_position": [
+          0,
+          336
+        ],
+        "grid_position": [
+          0,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          16,
+          336
+        ],
+        "grid_position": [
+          1,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          32,
+          336
+        ],
+        "grid_position": [
+          2,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          48,
+          336
+        ],
+        "grid_position": [
+          3,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          64,
+          336
+        ],
+        "grid_position": [
+          4,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          80,
+          336
+        ],
+        "grid_position": [
+          5,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          96,
+          336
+        ],
+        "grid_position": [
+          6,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          112,
+          336
+        ],
+        "grid_position": [
+          7,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          128,
+          336
+        ],
+        "grid_position": [
+          8,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          144,
+          336
+        ],
+        "grid_position": [
+          9,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          160,
+          336
+        ],
+        "grid_position": [
+          10,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          176,
+          336
+        ],
+        "grid_position": [
+          11,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          192,
+          336
+        ],
+        "grid_position": [
+          12,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          208,
+          336
+        ],
+        "grid_position": [
+          13,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          224,
+          336
+        ],
+        "grid_position": [
+          14,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          240,
+          336
+        ],
+        "grid_position": [
+          15,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          256,
+          336
+        ],
+        "grid_position": [
+          16,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          272,
+          336
+        ],
+        "grid_position": [
+          17,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          288,
+          336
+        ],
+        "grid_position": [
+          18,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          304,
+          336
+        ],
+        "grid_position": [
+          19,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          320,
+          336
+        ],
+        "grid_position": [
+          20,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          336,
+          336
+        ],
+        "grid_position": [
+          21,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          352,
+          336
+        ],
+        "grid_position": [
+          22,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          368,
+          336
+        ],
+        "grid_position": [
+          23,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          384,
+          336
+        ],
+        "grid_position": [
+          24,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          400,
+          336
+        ],
+        "grid_position": [
+          25,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          416,
+          336
+        ],
+        "grid_position": [
+          26,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          432,
+          336
+        ],
+        "grid_position": [
+          27,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          448,
+          336
+        ],
+        "grid_position": [
+          28,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          464,
+          336
+        ],
+        "grid_position": [
+          29,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          480,
+          336
+        ],
+        "grid_position": [
+          30,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          496,
+          336
+        ],
+        "grid_position": [
+          31,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          512,
+          336
+        ],
+        "grid_position": [
+          32,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          528,
+          336
+        ],
+        "grid_position": [
+          33,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          544,
+          336
+        ],
+        "grid_position": [
+          34,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          560,
+          336
+        ],
+        "grid_position": [
+          35,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          576,
+          336
+        ],
+        "grid_position": [
+          36,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          592,
+          336
+        ],
+        "grid_position": [
+          37,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          608,
+          336
+        ],
+        "grid_position": [
+          38,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      },
+      {
+        "world_position": [
+          624,
+          336
+        ],
+        "grid_position": [
+          39,
+          21
+        ],
+        "index": [
+          5,
+          0
+        ],
+        "tags": []
+      }
+    ]
+  ]
+}

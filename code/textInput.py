@@ -1,4 +1,4 @@
-
+import batFramework as bf
 
 import pygame
 
@@ -8,14 +8,18 @@ class TextInput(bf.Button):
         self.cursor_position = 0
         self.controls = bf.ActionContainer(
             bf.Action("backspace").add_key_control(pygame.K_BACKSPACE),
-            bf.Action("return").add_key_control(pygame.K_RETURN),
+            bf.Action("escape").add_key_control(pygame.K_ESCAPE),
+            bf.Action("return").add_key_control(pygame.K_RETURN)
         )
         self.cursor_speed = 20
         self.cursor_counter = 0
-        self.set_padding((10,10))
+        self.set_padding((8,4))
         self.on_changed_callback = None
         self.on_return_callback = None
 
+
+    def to_string_id(self)->str:
+        return "TextInput"
 
     def set_on_changed_callback(self,callback):
         self.on_changed_callback = callback
@@ -54,7 +58,10 @@ class TextInput(bf.Button):
                 self.set_text(self._text + event.text)            
             elif self.controls.is_active("backspace"):
                 self.set_text(self._text[:-1])
+            elif self.controls.is_active("escape"):
+                self.lose_focus()
             elif self.controls.is_active("return"):
+                if self.on_return_callback: self.on_return_callback()
                 self.lose_focus()
             else:
                 res = False
@@ -65,10 +72,8 @@ class TextInput(bf.Button):
         super().set_text(text)
         self.apply_constraints()
 
-
     def build(self):
         bf.Label.build(self)
-        if self._font_object :     print(self._font_object.point_size)
 
 
     def draw(self,camera):
