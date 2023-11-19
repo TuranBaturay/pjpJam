@@ -1,0 +1,84 @@
+{
+  "files": {
+    "/home/chu-totoro/Python/batFramework/HalloweenGamejam/data/assets/animations/player/idle.png": {
+      "width": 64,
+      "height": 64,
+      "ffl": [
+        3,
+        2,
+        1,
+        1,
+        3,
+        4,
+        4,
+        3,
+        1,
+        1,
+        3,
+        4,
+        4
+      ]
+    },
+    "/home/chu-totoro/Python/batFramework/HalloweenGamejam/data/assets/animations/duck/run.png": {
+      "width": 256,
+      "height": 256,
+      "ffl": [
+        1,
+        3,
+        5,
+        6,
+        3,
+        4,
+        1,
+        3,
+        5,
+        3,
+        6,
+        3,
+        4
+      ]
+    },
+    "/home/chu-totoro/Python/batFramework/gamejam/data/animation/player/run.png": {
+      "width": 8,
+      "height": 16,
+      "ffl": [
+        3,
+        4,
+        7,
+        7,
+        3,
+        4,
+        7,
+        7
+      ]
+    },
+    "/home/chu-totoro/Python/pjpJam/data/assets/animations/player/idle.png": {
+      "width": 16,
+      "height": 16,
+      "ffl": [
+        10,
+        8,
+        8,
+        4
+      ]
+    },
+    "/home/chu-totoro/Python/pjpJam/data/assets/animations/player/fall.png": {
+      "width": 16,
+      "height": 16,
+      "ffl": [
+        15,
+        10
+      ]
+    },
+    "/home/chu-totoro/Python/pjpJam/data/assets/animations/player/run.png": {
+      "width": 16,
+      "height": 16,
+      "ffl": [
+        5,
+        5,
+        8,
+        6
+      ]
+    }
+  }
+}
