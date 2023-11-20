@@ -11,7 +11,6 @@ class AnimatedParticle(bf.AnimatedSprite,bf.Particle):
     def set_animation(self,path,frame_size,fll:list)->"AnimatedParticle":
         self.add_animState("main",path,frame_size,fll)
         self.set_animState("main")
-        print("NEW",self.animStates)
         return self
 
     def update(self, dt: float):

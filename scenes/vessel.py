@@ -29,13 +29,21 @@ class Vessel(bf.DynamicEntity):
         res =  collider.rect.colliderect(self.collision_rect)
         if not res: return res
         if collider.has_tag("drop"):
-            pygame.event.post(gconst.DROP_EVENT)
+            pygame.event.post(pygame.Event(gconst.DROP_EVENT))
         elif collider.has_tag("poison"):
-            pygame.event.post(gconst.POISON_EVENT)
+            pygame.event.post(pygame.Event(gconst.POISON_EVENT))
+        collider.kill()
+        
         return res
     def on_collideX(self, collider: bf.DynamicEntity):
-        return collider.rect.colliderect(self.collision_rect)
-    
+        res =  collider.rect.colliderect(self.collision_rect)
+        if not res: return res
+        if collider.has_tag("drop"):
+            pygame.event.post(pygame.Event(gconst.DROP_EVENT))
+        elif collider.has_tag("poison"):
+            pygame.event.post(pygame.Event(gconst.POISON_EVENT))
+        collider.kill()
+        return res
 
     def do_when_added(self):
         self.player_link = self.parent_scene.get_sharedVar("player")
@@ -44,3 +52,6 @@ class Vessel(bf.DynamicEntity):
     def update(self, dt: float):
         self.set_center(*self.player_link.rect.move(0,-16).center)
         self.collision_rect.midbottom = self.rect.midbottom
+        drops = self.parent_scene.get_by_tags("drop") + self.parent_scene.get_by_tags("poison")
+        for drop in drops:
+            if not self.on_collideY(drop) : self.on_collideX(drop)

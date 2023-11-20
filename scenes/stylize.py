@@ -16,6 +16,8 @@ def stylize(*widgets : bf.Widget):
             case bf.Label():
                 apply_common(w)
                 w.set_antialias(False)
+                w.set_text_color(bf.color.CLOUD_WHITE)
+                w.set_padding((10,10))
 
             case bf.Shape():
                 apply_common(w)

@@ -1,1 +1,1 @@
-pyinstaller --noconfirm --onefile --windowed --add-data "C:/Users/Latitude/Python/pjpJam/code;code/" --add-data "C:/Users/Latitude/Python/pjpJam/data;data/"  "C:/Users/Latitude/Python/pjpJam/main.py"
+pyinstaller --noconfirm --onefile --windowed --add-data "C:/Users/Latitude/Python/pjpJam/scenes;scenes/" --add-data "C:/Users/Latitude/Python/pjpJam/data;data/"  "C:/Users/Latitude/Python/pjpJam/main.py"

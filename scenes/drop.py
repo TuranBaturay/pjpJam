@@ -37,11 +37,11 @@ class Drop(bf.DynamicEntity):
 
 
     def update(self, dt: float):
-        self.rect.move_ip(0,2*60*dt)
-        self.collision_rect.center = self.rect.center
         near_tiles = self.level_link.get_neighboring_tiles(*world_to_grid(*self.rect.center),"collider")
         if near_tiles:
             if self.collision_rect.collidelist(near_tiles):
                 self.kill()
                 return
+        self.rect.move_ip(0,2*60*dt)
+        self.collision_rect.center = self.rect.center
 

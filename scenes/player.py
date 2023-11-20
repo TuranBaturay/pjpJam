@@ -288,14 +288,12 @@ class Player(bf.AnimatedSprite):
 
         index = self.collision_rect.collidelist([d.collision_rect for d in drops])
         if index < 0 : return
-        print("COLLISION")
         drops[index].kill()
 
         poisons = self.parent_scene.get_by_tags("poison")
 
         index = self.collision_rect.collidelist([d.collision_rect for d in poisons])
         if index < 0 : return
-        print("COLLISION")
         poisons[index].kill()
 
     def update(self, dt: float):

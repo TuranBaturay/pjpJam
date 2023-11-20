@@ -6,7 +6,7 @@ from scenes import gconst as constants
 
 TILE_SIZE = constants.TILE_SIZE
 
-bf.init((640,360),flags = pygame.SCALED,default_text_size=16,resource_path = "data")
+bf.init((640,360),flags = pygame.SCALED,default_text_size=16,resource_path = "data",fps_limit=60)
 
 
 WIDTH,HEIGHT = bf.const.RESOLUTION
