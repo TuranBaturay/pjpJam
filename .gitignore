@@ -6,3 +6,4 @@ __pycache__/*
 *.pyc
 notes.txt
 /output
+/dist
