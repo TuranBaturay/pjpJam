@@ -1,6 +1,5 @@
 import batFramework as bf
 import pygame
-import customtkinter
 import tkinter.filedialog,tkinter.simpledialog
 import os
 
@@ -10,7 +9,8 @@ bf.init(
     flags = pygame.SCALED,
     default_text_size = 24,
     vsync = 1,
-    default_font = "notosans"
+    default_font = "comicsans",
+    resource_path="animator"
 )
 bf.utils.load_font("awesome.otf","awesome")
 
@@ -177,7 +177,6 @@ class MainScene(CustomScene):
 
         self.load_all_saved_files()
 
-        print(self.root.print_tree())
         stylize(self.root)
 
     def do_when_added(self):

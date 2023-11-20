@@ -1,7 +1,7 @@
 import batFramework as bf
 import pygame
-from code import Level,Tile,TextInput
-from code import gconst as constants
+from scenes import Level,Tile,TextInput
+from scenes import gconst as constants
 
 
 TILE_SIZE = constants.TILE_SIZE
@@ -98,9 +98,10 @@ class MainScene(bf.Scene):
 
         self.side_bar = bf.Container(bf.Column(gap=10,shrink=True))
 
-        frame = bf.Frame(100,100).set_border_radius(10)
+        frame :bf.Frame = bf.Frame(100,100).set_border_radius(10)
         frame.add_child(self.side_bar)
-        frame.set_color((*bf.color.DARK_BLUE,200)).set_padding(10)
+        frame.set_color((*bf.color.DARK_BLUE,200))
+        frame.set_padding(10)
         frame.add_constraints(bf.ConstraintAnchorRight(),bf.ConstraintCenterY())
 
         self.root.add_child(self.bottom_container,frame)
@@ -111,7 +112,8 @@ class MainScene(bf.Scene):
         self.current_tags = []
 
 
-        self.inspector = bf.Label("INSPECTOR").set_border_radius(10).set_color(bf.color.CLOUD_WHITE)
+        self.inspector :bf.Label = bf.Label("INSPECTOR").set_border_radius(10)
+        self.inspector.set_color(bf.color.CLOUD_WHITE)
         self.root.add_child(self.inspector)
 
         self.root.render_order = 50
@@ -158,9 +160,7 @@ class MainScene(bf.Scene):
     def show_tags(self,*tags):
         self.current_tags = list(tags)
         self.side_bar.clear_children()
-        # title = bf.Label("TAGS").set_outline_width(3).set_border_radius(6).set_autoresize(False)
-        # title.add_constraints(bf.ConstraintPercentageWidth(1),bf.ConstraintCenterX())
-        # self.side_bar.add_child(title)
+
         for tag in tags:
             self.side_bar.add_child(
                 bf.Container(
@@ -223,7 +223,7 @@ class MainScene(bf.Scene):
     def pick(self,update_tags :bool= False):
         x,y,x_index,y_index = self.get_mouse_and_index()
         if self.mode == "editor":
-            t = self.level.get_tile(x_index,y_index)
+            t : Tile= self.level.get_tile(x_index,y_index)
             if t:
                 data = t.save()
                 self.tile_indicator.reset(0,0,data["index"],*data["tags"])
@@ -295,7 +295,7 @@ class MainScene(bf.Scene):
         if self.inspector.visible:
             self.inspector.set_position(*pygame.mouse.get_pos())
             _,_,x_index,y_index = self.get_mouse_and_index() 
-            tile = self.level.get_tile(x_index,y_index)
+            tile :Tile = self.level.get_tile(x_index,y_index)
             self.inspector.set_text(
                 f"{tile.grid_position},{tile.tags}" if tile else "None"
             )

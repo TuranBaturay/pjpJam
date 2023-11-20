@@ -88,7 +88,7 @@ class Fall(bf.State):
             # bf.AudioManager().play_sound("step")
             pm = self.parent_entity.parent_scene.get_sharedVar("pm")
             pm.add_particle(
-            AnimatedParticle(self.parent_entity.collision_rect.midbottom,Vector2(-10,-10)).set_animation("assets/animations/player/idle.png",(16,16),[4,4,4,4])
+            AnimatedParticle(self.parent_entity.collision_rect.center,Vector2(0,0)).set_animation("assets/animations/particles/dust.png",(16,16),[2,4,7,10])
             )
             self.state_machine.set_state(
                 "idle" if self.parent_entity.velocity.x == 0 else "run"
@@ -141,10 +141,10 @@ class Player(bf.AnimatedSprite):
         self.spawn_point = (0, 0)
         self.on_ground = False
         self.actions = bf.ActionContainer()
-        self.h_movement_speed = 40
+        self.h_movement_speed = 60
         self.jump_force = 170
         self.control = True
-        self.collision_rect = pygame.FRect(0, 0, *self.rect.size)
+        self.collision_rect = pygame.FRect(0, 0, 8,14)
 
 
     def init_actions(self):
@@ -179,7 +179,8 @@ class Player(bf.AnimatedSprite):
         self.level_link: Level = self.parent_scene.get_sharedVar("level")
 
     def get_bounding_box(self):
-        return self.rect, self.collision_rect
+        yield self.rect
+        yield self.collision_rect
 
     def set_control(self, value: bool):
         self.actions.hard_reset()
@@ -282,23 +283,25 @@ class Player(bf.AnimatedSprite):
 
         self.set_position(*[round(i, 1) for i in self.rect.center])
 
+
+        drops = self.parent_scene.get_by_tags("drop")
+
+        index = self.collision_rect.collidelist([d.collision_rect for d in drops])
+        if index < 0 : return
+        print("COLLISION")
+        drops[index].kill()
+
+        poisons = self.parent_scene.get_by_tags("poison")
+
+        index = self.collision_rect.collidelist([d.collision_rect for d in poisons])
+        if index < 0 : return
+        print("COLLISION")
+        poisons[index].kill()
+
     def update(self, dt: float):
         super().update(dt)
         self.state_machine.update(dt)
         self.process_physics(dt)
-        if not self.control:
-            self.set_flipX(self.baby_link.rect.centerx < self.rect.centerx)
-        if self.actions.is_active("hold"):
-            # print("SPACE")
-            if self.baby_link.is_held == False:
-                if self.rect.colliderect(self.baby_link.rect):
-                    self.baby_link.hold(True)
-                    bf.AudioManager().play_sound("pick_up")
-            else:
-                self.baby_link.hold(False)
-                self.baby_link.velocity.update(180, -50)
-                if self.flipX:
-                    self.baby_link.velocity.x *= -1
 
         self.actions.reset()
     

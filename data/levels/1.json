@@ -3381,9 +3381,7 @@
           5,
           0
         ],
-        "tags": [
-          "collider"
-        ]
+        "tags": []
       },
       {
         "world_position": [
@@ -3398,9 +3396,7 @@
           5,
           0
         ],
-        "tags": [
-          "collider"
-        ]
+        "tags": []
       },
       {
         "world_position": [
@@ -3415,9 +3411,7 @@
           5,
           0
         ],
-        "tags": [
-          "collider"
-        ]
+        "tags": []
       },
       {
         "world_position": [
@@ -3432,9 +3426,7 @@
           5,
           0
         ],
-        "tags": [
-          "collider"
-        ]
+        "tags": []
       },
       {
         "world_position": [
@@ -3449,9 +3441,7 @@
           5,
           0
         ],
-        "tags": [
-          "collider"
-        ]
+        "tags": []
       }
     ],
     [
@@ -3678,9 +3668,7 @@
           5,
           0
         ],
-        "tags": [
-          "collider"
-        ]
+        "tags": []
       },
       {
         "world_position": [
@@ -3695,9 +3683,7 @@
           5,
           0
         ],
-        "tags": [
-          "collider"
-        ]
+        "tags": []
       },
       {
         "world_position": [
@@ -3712,9 +3698,7 @@
           5,
           0
         ],
-        "tags": [
-          "collider"
-        ]
+        "tags": []
       },
       {
         "world_position": [
@@ -3729,9 +3713,7 @@
           5,
           0
         ],
-        "tags": [
-          "collider"
-        ]
+        "tags": []
       },
       {
         "world_position": [
@@ -3743,7 +3725,7 @@
           11
         ],
         "index": [
-          4,
+          5,
           0
         ],
         "tags": [
@@ -3761,7 +3743,7 @@
           11
         ],
         "index": [
-          5,
+          4,
           0
         ],
         "tags": [
@@ -3994,9 +3976,7 @@
           5,
           0
         ],
-        "tags": [
-          "collider"
-        ]
+        "tags": []
       },
       {
         "world_position": [
@@ -4011,9 +3991,7 @@
           5,
           0
         ],
-        "tags": [
-          "collider"
-        ]
+        "tags": []
       },
       {
         "world_position": [
@@ -4028,9 +4006,7 @@
           5,
           0
         ],
-        "tags": [
-          "collider"
-        ]
+        "tags": []
       },
       {
         "world_position": [
@@ -4045,9 +4021,7 @@
           5,
           0
         ],
-        "tags": [
-          "collider"
-        ]
+        "tags": []
       },
       {
         "world_position": [
@@ -4062,9 +4036,7 @@
           5,
           0
         ],
-        "tags": [
-          "collider"
-        ]
+        "tags": []
       },
       {
         "world_position": [
@@ -4842,23 +4814,7 @@
       null,
       null,
       null,
-      {
-        "world_position": [
-          352,
-          240
-        ],
-        "grid_position": [
-          22,
-          15
-        ],
-        "index": [
-          4,
-          0
-        ],
-        "tags": [
-          "collider"
-        ]
-      },
+      null,
       null,
       null,
       null,
@@ -5142,41 +5098,9 @@
       null,
       null,
       null,
-      {
-        "world_position": [
-          320,
-          256
-        ],
-        "grid_position": [
-          20,
-          16
-        ],
-        "index": [
-          4,
-          0
-        ],
-        "tags": [
-          "collider"
-        ]
-      },
       null,
-      {
-        "world_position": [
-          352,
-          256
-        ],
-        "grid_position": [
-          22,
-          16
-        ],
-        "index": [
-          5,
-          0
-        ],
-        "tags": [
-          "collider"
-        ]
-      },
+      null,
+      null,
       null,
       null,
       null,
@@ -5646,7 +5570,7 @@
           17
         ],
         "index": [
-          5,
+          4,
           0
         ],
         "tags": [
@@ -5680,7 +5604,7 @@
           17
         ],
         "index": [
-          5,
+          4,
           0
         ],
         "tags": [
@@ -6247,7 +6171,9 @@
           5,
           0
         ],
-        "tags": []
+        "tags": [
+          "collider"
+        ]
       },
       {
         "world_position": [
